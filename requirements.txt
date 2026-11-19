@@ -1,0 +1,13 @@
+
+web3
+streamlit
+pandas
+numpy
+python-dotenv
+matplotlib
+
+streamlit
+web3
+python-dotenv
+pandas
+plotly
